@@ -18,6 +18,20 @@ title: symposium
 </div>
 
 <hr class="mt-5 mb-4" />
+## 2021 Virtual Symposium
+
+<div class="row">
+    {% assign years = "2021" | split: ',' %}
+    {% for year in years %}
+    <a class="col-4 col-md-3 col-lg-2" href="{{ year | prepend: '/' | absolute_url }}">
+        {% capture new_var %}{{ year }}.jpg{% endcapture %}
+        <img src="{{ '/assets/img/symposium_cover/symposium_pb-' | append: new_var | absolute_url }}" alt="{{ year }} Cover">
+        <h3 class="text-center btn-link">{{ year }}</h3>
+    </a>
+    {% endfor %}
+</div>
+
+<hr class="mt-5 mb-4" />
 ## Past Symposia
 
 <div class="row">
