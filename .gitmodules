@@ -22,3 +22,13 @@
 	path = 2021
 	url = https://github.com/btbatw/symposium-2021.git
 	branch = website
+
+[submodule "2017"]
+	path = 2017
+	url = https://github.com/btbatw/symposium-2017.git
+	branch = website
+
+[submodule "2018"]
+	path = 2018
+	url = https://github.com/btbatw/symposium-2018.git
+	branch = website
