@@ -1,0 +1,95 @@
+leaderships:
+    2021:
+        - name: Yvonne Meng
+          ch-name: 孟憲薇
+          image-url: /assets/img/committee/yvonne-meng.jpg
+          position: Sr. Group Leader, Entrada Therapeutics
+          current: 
+        - name: Erica Cai
+          ch-name: 蔡佩珊
+          image-url: /assets/img/committee/erica-cai.jpg
+          position: Research Fellow, Joslin Diabetes Center
+          current:
+    2020:
+        - name: Margaret (Chia-Ying) Wey
+          ch-name: 
+          image-url: /assets/img/committee/margaret_wey.jpg
+          position: Clinical Research Scientist, Epizyme
+          current:
+        - name: Jerry (Chih-Chung) Lin
+          ch-name: 
+          image-url: /assets/img/committee/jerry_lin.jpg
+          position: Postdoctoral fellow, Massachusetts General Hospital
+          current:
+    2019: 
+        - name: Yung-Chih Cheng
+          ch-name: 
+          image-url: /assets/img/committee/yung-chih_cheng.jpg
+          position: Senior Scientist, Q-State Biosciences
+          current:
+        - name: Chih-Chi (Jimmy) Chu
+          ch-name: 
+          image-url: /assets/img/committee/chih-chi_chu.jpg
+          position: Scientist I, bluebird bio
+          current:
+    2018:
+        - name: Yung-Chi Huang
+          ch-name: 黃詠琪
+          image-url: /assets/img/committee/yung-chi_huang.jpg
+          position: Postdoctoral Fellow, Massachusetts Institute of Technology
+          current:
+        - name: I-Ju Lee
+          ch-name: 李以如
+          image-url: /assets/img/committee/i-ju_lee.jpg
+          position: Research Fellow, Dana-Farber Cancer Institute
+          current:
+    2017:
+        - name: Hsiao-Ying (Monica) Wey
+          ch-name: 魏曉英
+          image-url: /assets/img/committee/hsiao-ying_wey.jpg
+          position: Assistant Professor, The MGH/HST Martinos Center for Biomedical Imaging
+          current:
+        - name: Tzu-Hsing (April) Kuo
+          ch-name: 郭姿杏
+          image-url: /assets/img/committee/tzu-hsing_kuo.jpg
+          position: Scientist, Molecular and Cell Biology, Acceleron Pharma
+          current:
+    2016:
+        - name: Ying-Ja (Inca) Chen
+          ch-name: 陳映嘉
+          image-url: /assets/img/committee/ying-ja_chen.jpg
+          position: Patent Agent Axcella Heath
+          current: Vice Director, Bioinformatics and AI / IP Manager at ACT Genomics
+        - name: Jay (Chih-Chieh) Wang
+          ch-name: 王志傑
+          image-url: /assets/img/committee/jay_wang.jpg
+          position: Postdoctoral Fellow at Harvard Medical School
+          current: Scientist at Cygnal Therapeutics
+    2015:
+        - name: Sherry Lee
+          ch-name: 李湘盈
+          image-url: /assets/img/committee/sherry_lee.jpg
+          position: Postdoctoral Fellow at MIT
+          current: Assistant Professor at Beijing University
+        - name: Fu-Kai Hsieh
+          ch-name: 謝富凱
+          image-url: /assets/img/committee/fu-kai_hsieh.jpg
+          position: Research Fellow at Massachusetts General Hospital
+          current:
+    2014:
+        - name: Ho-Chou Tu
+          ch-name: 杜荷洲
+          image-url: /assets/img/committee/ho-chou_tu.jpg
+          position: Research Fellow at Children's Hospital Boston
+          current: Senior Scientist at Alnylam Pharmaceuticals
+        - name: Ching-Han (Hannah) Shen
+          ch-name: 沈敬涵
+          image-url: /assets/img/committee/hannah_shen.jpg
+          position: Graduate student at Harvard University
+          current: Associate Director at BridgeBio
+    2013:
+        - name: Sheng-Hong Chen
+          ch-name: 陳昇宏
+          image-url: /assets/img/committee/sheng-hong_chen.jpg
+          position: Postdoctoral Fellow at Harvard Medical School
+          current: Principal Investigator at Academia Sinica, Taiwan

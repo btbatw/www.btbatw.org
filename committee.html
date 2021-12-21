@@ -1,106 +1,11 @@
 ---
 layout: default
-leaderships:
-    2021:
-        - name: Yvonne Meng
-          ch-name: 孟憲薇
-          image-url: /assets/img/committee/yvonne-meng.jpg
-          position: Sr. Group Leader, Entrada Therapeutics
-          current: 
-        - name: Erica Cai
-          ch-name: 蔡佩珊
-          image-url: /assets/img/committee/erica-cai.jpg
-          position: Research Fellow, Joslin Diabetes Center
-          current:
-    2020:
-        - name: Margaret (Chia-Ying) Wey
-          ch-name: 
-          image-url: /assets/img/committee/margaret_wey.jpg
-          position: Clinical Research Scientist, Epizyme
-          current:
-        - name: Jerry (Chih-Chung) Lin
-          ch-name: 
-          image-url: /assets/img/committee/jerry_lin.jpg
-          position: Postdoctoral fellow, Massachusetts General Hospital
-          current:
-    2019: 
-        - name: Yung-Chih Cheng
-          ch-name: 
-          image-url: /assets/img/committee/yung-chih_cheng.jpg
-          position: Senior Scientist, Q-State Biosciences
-          current:
-        - name: Chih-Chi (Jimmy) Chu
-          ch-name: 
-          image-url: /assets/img/committee/chih-chi_chu.jpg
-          position: Scientist I, bluebird bio
-          current:
-    2018:
-        - name: Yung-Chi Huang
-          ch-name: 黃詠琪
-          image-url: /assets/img/committee/yung-chi_huang.jpg
-          position: Postdoctoral Fellow, Massachusetts Institute of Technology
-          current:
-        - name: I-Ju Lee
-          ch-name: 李以如
-          image-url: /assets/img/committee/i-ju_lee.jpg
-          position: Research Fellow, Dana-Farber Cancer Institute
-          current:
-    2017:
-        - name: Hsiao-Ying (Monica) Wey
-          ch-name: 魏曉英
-          image-url: /assets/img/committee/hsiao-ying_wey.jpg
-          position: Assistant Professor, The MGH/HST Martinos Center for Biomedical Imaging
-          current:
-        - name: Tzu-Hsing (April) Kuo
-          ch-name: 郭姿杏
-          image-url: /assets/img/committee/tzu-hsing_kuo.jpg
-          position: Scientist, Molecular and Cell Biology, Acceleron Pharma
-          current:
-    2016:
-        - name: Ying-Ja (Inca) Chen
-          ch-name: 陳映嘉
-          image-url: /assets/img/committee/ying-ja_chen.jpg
-          position: Patent Agent Axcella Heath
-          current: Vice Director, Bioinformatics and AI / IP Manager at ACT Genomics
-        - name: Jay (Chih-Chieh) Wang
-          ch-name: 王志傑
-          image-url: /assets/img/committee/jay_wang.jpg
-          position: Postdoctoral Fellow at Harvard Medical School
-          current: Scientist at Cygnal Therapeutics
-    2015:
-        - name: Sherry Lee
-          ch-name: 李湘盈
-          image-url: /assets/img/committee/sherry_lee.jpg
-          position: Postdoctoral Fellow at MIT
-          current: Assistant Professor at Beijing University
-        - name: Fu-Kai Hsieh
-          ch-name: 謝富凱
-          image-url: /assets/img/committee/fu-kai_hsieh.jpg
-          position: Research Fellow at Massachusetts General Hospital
-          current:
-    2014:
-        - name: Ho-Chou Tu
-          ch-name: 杜荷洲
-          image-url: /assets/img/committee/ho-chou_tu.jpg
-          position: Research Fellow at Children's Hospital Boston
-          current: Senior Scientist at Alnylam Pharmaceuticals
-        - name: Ching-Han (Hannah) Shen
-          ch-name: 沈敬涵
-          image-url: /assets/img/committee/hannah_shen.jpg
-          position: Graduate student at Harvard University
-          current: Associate Director at BridgeBio
-    2013:
-        - name: Sheng-Hong Chen
-          ch-name: 陳昇宏
-          image-url: /assets/img/committee/sheng-hong_chen.jpg
-          position: Postdoctoral Fellow at Harvard Medical School
-          current: Principal Investigator at Academia Sinica, Taiwan
 ---
 
 <div class="row align-items-center py-auto my-auto py-md-5 my-md-5">
     <div class="col-12 col-md col-lg-5">
         <h1 class="display-1">
-            Our Leaderships
+            Our Leadership
         </h1>
     </div>
     <div class="col-12 col-md">
@@ -113,65 +18,55 @@ leaderships:
 </div>
 
 <hr class="mt-5 mb-4" />
+
+<h2>Meet Our Team of Year</h2>
+
 <ul class="nav" role="tablist">
+    {% assign years = "2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013" | split: ", " %}
+    {% for year in years %}
     <li class="nav-item">
-        <a class="nav-link active" data-toggle="tab" href="#link1" role="tablist" aria-expanded="true">
-            2022
+        <a class="nav-link {% if forloop.first == true %}active{% endif %}" data-toggle="tab" href="#{{ year }}" role="tablist" aria-expanded="{% if forloop.first == true %}true{% else %}false{% endif %}">
+            {{ year }}
         </a>
     </li>
+    {% endfor %}
 </ul>
+
 <div class="tab-content tab-space">
-    <div class="tab-pane active" id="link1" aria-expanded="true">
+    {% for year in years %}
+    <div class="tab-pane {% if forloop.first == true %}active{% endif %}" id="{{ year }}" aria-expanded="true">
         <div class="row">
-            {% for row in site.data.committee.2022 %}
-            <div class="col-6 col-md-4 col-lg-3 p-3 p-lg-4 mb-2">
-                <div class="col-12 col-xl-10">
-                    <img src="{{ "/assets/img/committee/" | append: row['Headshot Name'] | absolute_url }}" class="img-fluid w-100 rounded-circle" alt="">
-                </div>
-                <div class="d-flex mt-4">
-                    <div>
-                        <h4 class="mb-0">
-                            <strong>{{ row['Name in English'] }}</strong>
-                        </h4>
-                        <p>{{ row['Position title on the website'] }}</p>
+            {% for row in site.data.committee[year] %}
+            <div class="col-6 col-md-4 col-lg-3 p-0">
+                <div class="rounded border border-neutral m-2 p-3 p-lg-4">
+                    <div class="text-center">
+                        <img src="{{ "/assets/img/committee/" | append: row['Headshot Name'] | absolute_url }}" 
+                            class="img-fluid w-100 rounded-circle" alt="" style="max-width: 10rem;">
                     </div>
-                    <div class="flex-grow-1 align-self-center ml-2">
-                        <button class="btn btn-neutral btn-fab btn-icon btn-round m-0">
-                            <a href="{{ row.LinkedIn }}" target="_blank">
-                                <img src="{{ "/assets/img/linkedin_logo.svg" | absolute_url }}" class="rounded-0 pl-1" style="height: 1rem;" alt="">
-                            </a>
-                        </button>
+                    <div class="d-flex mt-4">
+                        <div>
+                            <h4 class="mb-0">
+                                <strong>{{ row['Name in English'] }}</strong>
+                            </h4>
+                            <h4 class="mb-0">
+                                <strong>{{ row['Name in Chinese'] }}</strong>
+                            </h4>
+                            <p>{{ row['Position title on the website'] }}</p>
+                        </div>
+                        <div class="align-self-start ml-auto">
+                            {% if row.LinkedIn %}
+                            <button class="btn btn-neutral btn-fab btn-icon btn-round m-0">
+                                <a href="{{ row.LinkedIn }}" target="_blank">
+                                    <img src="{{ "/assets/img/linkedin_logo.svg" | absolute_url }}" class="rounded-0 pl-1" style="height: 1rem;" alt="">
+                                </a>
+                            </button>
+                            {% endif %}
+                        </div>
                     </div>
                 </div>
             </div>
             {% endfor %}
         </div>
     </div>
-    <div class="tab-pane" id="link2" aria-expanded="false">
-      Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas.
-      <br><br>Dramatically maintain clicks-and-mortar solutions without functional solutions.
-    </div>
-    <div class="tab-pane" id="link3" aria-expanded="false">
-        Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.
-        <br><br>Dynamically innovate resource-leveling customer service for state of the art customer service.
-    </div>
+    {% endfor %}
 </div>
-{% for item in page.leaderships %}
-    <h2 class="mt-5 mb-3">{{ item[0] | capitalize }}</h2>
-        <div class="row">
-            {% for person in item[1] %}
-            <div class="col-sm-6 row mb-2">
-                <div class="col-4">
-                    <img src="{{ person.image-url | absolute_url }}" class="img-fluid w-100" alt="{{ person.name }}">
-                </div>
-                <div class="col-8">
-                    <h4><strong>{{ person.name }} {{ person.ch-name }}</strong></h4>
-                    <p>{{ person.position }}</p>
-                    {% if person.current %}
-                    <p>Current - {{ person.current }}</p>
-                    {% endif %}
-                </div>
-            </div>            
-            {% endfor %}
-        </div>
-{% endfor %}
