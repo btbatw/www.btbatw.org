@@ -5,6 +5,16 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--  Essential Social Meta Tags -->
+    <meta property="og:title" content="{{ page.title }} - Boston Taiwanese Biotechnology Association">
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="{{ "/assets/img/btba-social-img.jpg" | absolute_url }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <title>{{ page.title}} | BTBA</title>
+
     <link href="https://fonts.googleapis.com/css?family=Mukta+Malar:400,600,700" rel="stylesheet" />
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">

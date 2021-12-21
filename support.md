@@ -1,4 +1,5 @@
 ---
+title: Support
 ---
 <div class="row align-items-center py-auto my-auto py-md-5 my-md-5">
     <div class="col-12 col-md col-lg-5">

@@ -1,5 +1,5 @@
 ---
-title: about
+title: About
 ---
 
 <div class="row align-items-center py-auto my-auto py-md-5 my-md-5">
