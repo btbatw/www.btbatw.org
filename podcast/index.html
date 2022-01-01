@@ -112,27 +112,39 @@ summary: The main goal of the Advanced Podcast series is to expose Taiwanese-Ame
     <div class="col-md-8 order-1 order-md-2">
         <hr class="mt-5 mb-4" />
         <h2>Most Recent Episodes</h2>
-        {% for podcast in site.podcasts reversed %}
+        {% for episode in site.podcast reversed %}
         <div>
-            <p class="mb-0">{{ podcast.path | date: "%b %d, %Y" }}</p>
-            <h4 class="mb-0">
-                <a href="{{ podcast.link }}">
-                    {{ podcast.title }}
+            <p class="mb-0">{{ episode.path | date: "%b %d, %Y" }}</p>
+            <h4 class="">
+                <a href="{{ episode.link }}">
+                    {{ episode.title }}
                 </a>
             </h4>
-            <p class="my-1"> 
-                {{ podcast.content | markdownify }} 
-            </p>
-            {{ podcast.embed }}
-            <a href="{{ podcast.podcast_guest1_linkedin }}">
-                ⇨ {{ podcast.podcast_guest1 }}'s LinkedIn
-            </a>
-            {% if podcast.podcast_guest2 %}
-            <br>
-            <a href="{{ podcast.podcast_guest2_linkedin }}">
-                ⇨ {{ podcast.podcast_guest2 }}'s LinkedIn
-            </a>
-            {% endif %}
+            {{ episode.content | markdownify }} 
+            <!-- {{ episode.embed }} -->
+            <div class="row w-100">
+                <div class="col-auto mr-auto pt-1">
+                    <p>
+                        <a href="{{ episode.podcast_guest1_linkedin }}">
+                            ⇨ {{ episode.podcast_guest1 }}'s LinkedIn
+                        </a>
+                    </p>
+                    {% if episode.podcast_guest2 %}
+                    <p>
+                        <a href="{{ episode.podcast_guest2_linkedin }}">
+                            ⇨ {{ episode.podcast_guest2 }}'s LinkedIn
+                        </a>
+                    </p>
+                    {% endif %}
+                </div>
+                <div>
+                    <div class="text-right">
+                        <a href="{{ episode.url | absolute_url }}" class="btn btn-primary">
+                            <i class="tim-icons icon-triangle-right-17"></i> Play
+                        </a>
+                    </div>
+                </div>
+            </div>
             {% unless forloop.last %}
                 <hr />
             {% endunless %}

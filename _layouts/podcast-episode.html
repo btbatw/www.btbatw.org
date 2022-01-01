@@ -1,0 +1,87 @@
+---
+layout: base
+---
+
+<div class="container">
+    <p class="mb-0">{{ page.path | date: "%b %d, %Y" }}</p>
+    <h1 class="h2">
+        <a href="{{ page.link }}">
+            {{ page.title }}
+        </a>
+    </h1>
+    {{ page.content | markdownify }} 
+    <div class="row w-100">
+        <div class="col-auto mr-auto pt-1">
+            <p>
+                <a href="{{ page.podcast_guest1_linkedin }}">
+                    ⇨ {{ page.podcast_guest1 }}'s LinkedIn
+                </a>
+            </p>
+            {% if page.podcast_guest2 %}
+            <p>
+                <a href="{{ page.podcast_guest2_linkedin }}">
+                    ⇨ {{ page.podcast_guest2 }}'s LinkedIn
+                </a>
+            </p>
+            {% endif %}
+        </div>
+    </div>
+    <div class="my-2">
+        {{ page.embed }}
+    </div>
+    <hr />
+</div>
+
+
+{% assign prevflag = 1 %}
+{% assign nextflag = 1 %}
+
+{% for c in site.podcast %}
+  {% if c.title == page.title %}
+    {% assign currentItemIndex = forloop.index0 %}
+    {% if forloop.index == 1 %}
+      {% assign prevflag = 0 %}
+      {% assign nextflag = 1 %}
+    {% elsif forloop.index == forloop.length %}
+      {% assign prevflag = 1 %}
+      {% assign nextflag = 0 %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% if prevflag == 1 %}
+  {% assign prevItemIndex = currentItemIndex | minus: 1 %}
+  {% assign prevPost = site.podcast[prevItemIndex] %}
+{% endif %}
+
+{% if nextflag == 1 %}
+  {% assign nextItemIndex = currentItemIndex | plus: 1 %}
+  {% assign nextPost = site.podcast[nextItemIndex] %}
+{% endif %}
+
+<div class="container">
+    <nav aria-label="Page navigation podcast-episode">
+        <ul class="pagination justify-content-between">
+            <li class="page-item {% unless prevPost.url %} disabled {% endunless %}">
+                <a class="page-link text-primary" href="{{ prevPost.url }}">
+                    <i class="tim-icons icon-minimal-left mb-1"></i>
+                    Previous episode
+                </a>
+            </li>
+            <li class="page-item {% unless nextPost.url %} disabled {% endunless %}">
+                <a class="page-link text-primary" href="{{ nextPost.url }}">
+                    Next episode
+                    <i class="tim-icons icon-minimal-right mb-1"></i>
+                </a>
+            </li>
+        </ul>
+        <ul class="pagination justify-content-start">
+            <li class="page-item {% unless prevPost.url %} disabled {% endunless %}">
+                <a class="page-link text-primary" href="{{ 'podcast' | absolute_url }}">
+                    <i class="tim-icons icon-double-left mb-1"></i>
+                    all episodes
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>

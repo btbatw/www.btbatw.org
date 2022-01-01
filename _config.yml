@@ -12,6 +12,16 @@ repository: jekyll-test/Yu-AnChen
 collections:
   events:
     output: true
-  podcasts:
+  podcast:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "podcast"
+    values:
+      layout: "podcast-episode"
+
+paginate: 5
 
 google_analytics: UA-48105451-1
