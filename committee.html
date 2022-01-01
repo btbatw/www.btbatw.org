@@ -38,8 +38,8 @@ title: Committee
     <div class="tab-pane {% if forloop.first == true %}active{% endif %}" id="{{ year }}" aria-expanded="true">
         <div class="row">
             {% for row in site.data.committee[year] %}
-            <div class="col-6 col-md-4 col-lg-3 p-0">
-                <div class="rounded border border-neutral m-2 p-3 p-lg-4">
+            <div class="col-6 col-md-4 col-lg-3 p-0 d-flex align-items-stretch">
+                <div class="rounded border border-neutral m-2 p-3 p-lg-4 w-100">
                     <div class="text-center">
                         <img src="{{ "/assets/img/committee/" | append: row['Headshot Name'] | absolute_url }}" 
                             class="img-fluid w-100 rounded-circle" alt="" style="max-width: 10rem;">
@@ -52,7 +52,7 @@ title: Committee
                             <h4 class="mb-0">
                                 <strong>{{ row['Name in Chinese'] }}</strong>
                             </h4>
-                            <p>{{ row['Position title on the website'] }}</p>
+                            <p class="mb-0">{{ row['Position title on the website'] }}</p>
                         </div>
                         <div class="align-self-start ml-auto">
                             {% if row.LinkedIn %}
