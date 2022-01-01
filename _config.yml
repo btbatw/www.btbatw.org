@@ -13,3 +13,5 @@ collections:
   events:
     output: true
   podcasts:
+
+google_analytics: UA-48105451-1
