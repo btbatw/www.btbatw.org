@@ -88,24 +88,43 @@ summary: The main goal of the Advanced Podcast series is to expose Taiwanese-Ame
     <div class="col-md-4 order-2 order-md-1">
         <hr class="mt-5 mb-4" />
         <h2>Team</h2>
-        {% for person in page.team %}
-        <div class="row mb-3">
-            <div class="col-3">
-                {% if person.image-url %}
-                    <img src="{{ person.image-url | absolute_url }}" class="img-fluid w-100" alt="{{ person.name }}">
+        {% for role in site.data.podcast-committee.roles.2022 %}
+            <h4 class="mt-4">{{ role }}</h4>
+            {% for person in site.data.podcast-committee.2022 %}
+                {% if person['Position title on the website'] == role %}
+
+                <div class="row mb-3">
+                    <div class="col-3 col-md-4">
+                        {% if person['Headshot Name'] %}
+                            <img src="{{ "/assets/img/committee/" | append: person['Headshot Name'] | absolute_url }}" class="img-fluid w-100" alt="{{ person.name }}">
+                        {% endif %}
+                    </div>
+                    <div class="col d-flex flex-column justify-content-around">
+                        <div>
+                            <h4 class="mb-0"><strong>{{ person['Name in English'] }}</strong></h4>
+                            <p><strong>{{ person['Name in Chinese'] }}</strong></p>
+                        </div>
+                        <div>
+                            {% if person.Twitter %}
+                            <a href="https://twitter.com/{{ person.Twitter | replace: '@', '' }}" target="_blank">
+                                <img src="{{ "/assets/img/twitter_logo.svg" | absolute_url }}" class="rounded-0 pl-1" style="height: 1rem;" alt="">
+                            </a>
+                            {% endif %}
+                            {% if person.LinkedIn %}
+                            <a href="{{ person.LinkedIn }}" target="_blank">
+                                <img src="{{ "/assets/img/linkedin_logo.svg" | absolute_url }}" class="rounded-0 pl-1" style="height: 1rem;" alt="">
+                            </a>
+                            {% endif %}
+                        </div>                        
+                    </div>
+                </div>
+
                 {% endif %}
-            </div>
-            <div class="col-9">
-                <p><strong>{{ person.name }} {{ person.ch-name }}</strong></p>
-                <p>{{ person.role }}</p>
-                {% if person.current %}
-                <p>Current - {{ person.current }}</p>
-                {% endif %}
-            </div>
-        </div>
+            {% endfor %}
         {% endfor %}
-        <h2>Contact</h2>
-        <p>
+
+        <h2 class="mt-5">Contact</h2>
+        <p class="font-weight-bold">
             tmrbiotech.moments@gmail.com
         </p>
     </div>
