@@ -12,18 +12,13 @@ layout: base
     {{ page.content | markdownify }} 
     <div class="row w-100">
         <div class="col-auto mr-auto pt-1">
+            {% for guest in page.guests %}
             <p>
-                <a href="{{ page.podcast_guest1_linkedin }}">
-                    ⇨ {{ page.podcast_guest1 }}'s LinkedIn
+                <a href="{{ guest.linkedin }}">
+                    ⇨ {{ guest.name }}'s LinkedIn
                 </a>
             </p>
-            {% if page.podcast_guest2 %}
-            <p>
-                <a href="{{ page.podcast_guest2_linkedin }}">
-                    ⇨ {{ page.podcast_guest2 }}'s LinkedIn
-                </a>
-            </p>
-            {% endif %}
+            {% endfor %}
         </div>
     </div>
     <div class="my-2">
