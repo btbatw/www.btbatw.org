@@ -28,3 +28,10 @@ $primary:       darken($color4, 12%);
 
 // .bg-light
 $gray-500:      $color1;
+
+$container-max-widths: (
+  sm: 960px,
+  md: 960px,
+  lg: 960px,
+  xl: 1140px
+)
