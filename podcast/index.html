@@ -141,8 +141,8 @@ summary: The main goal of the Advanced Podcast series is to expose Taiwanese-Ame
             </h4>
             {{ episode.content | markdownify }} 
             <!-- {{ episode.embed }} -->
-            <div class="row w-100">
-                <div class="col-auto mr-auto pt-1">
+            <div class="row">
+                <div class="col mr-auto pt-1">
                     {% for guest in episode.guests %}
                     <p>
                         <a href="{{ guest.linkedin }}">
@@ -151,7 +151,7 @@ summary: The main goal of the Advanced Podcast series is to expose Taiwanese-Ame
                     </p>
                     {% endfor %}
                 </div>
-                <div>
+                <div class="col">
                     <div class="text-right">
                         <a href="{{ episode.url | absolute_url }}" class="btn btn-primary">
                             <i class="tim-icons icon-triangle-right-17"></i> Play
