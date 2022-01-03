@@ -47,8 +47,8 @@ carousel-items:
 {% include slide-show.html data = page.carousel-items %}
 <div class="row">
     <div class="col-md-6">
-        <hr class="w-100">
-        <h2>Event</h2>
+        <hr class="w-100 mb-5 mb-md-3">
+        <h2 class="font-weight-bold">Event</h2>
 
         {% assign events = site.events | reverse %}
         {% for event in events limit: 4 %}
@@ -65,7 +65,7 @@ carousel-items:
         </div>
         
         {% endif %}
-        <div class="mx-0 my-2" style="background: white;">
+        <div class="mx-0 my-2 rounded" style="background: white;">
             <div class="px-3 pt-3 pb-0">
                 <h5 class="mb-1">{{ event.serie }}</h5>
                 <h4 class="mb-0">
@@ -80,10 +80,33 @@ carousel-items:
 
     </div>
     <div class="col-md-6">
-        <hr class="w-100">
+        <hr class="w-100 mb-5 mb-md-3">
         <img src="{{ 'assets/img/home_icons/Botany.png' | absolute_url}}" alt="" class="w-50 float-right p-4">
-        <h2>Blog</h2>
+        <h2 class="font-weight-bold">Podcast</h2>
+        {% assign episodes = site.podcast | reverse %}
+        {% for episode in episodes limit: 3 %}
+        <!-- {% unless forloop.first == true %}<hr>{% endunless %} -->
+        <hr>
+        <div>
+            <h3 class="mb-0 h4">
+                <a class="font-weight-bold" href="{{ episode.url | absolute_url }}">
+                    {{ episode.title }}
+                </a>
+            </h3>
+            <p class="font-italic">
+                <!-- {{ episode.date | date: "%b, %Y" }} -->
+                {{ episode.path | date: "%b %d, %Y" }}
+            </p>
+            <p class="mt-3">
+                {{ episode.content | truncate: 100, "" }} <a href="{{ episode.url | absolute_url }}">...More info</a>
+            </p>
+        </div>
+        {% endfor %}
+        <hr class="w-100 mb-5">
+        <img src="{{ 'assets/img/home_icons/Botany.png' | absolute_url}}" alt="" class="w-50 float-right p-4">
+        <h2 class="font-weight-bold">Blog</h2>
         {% for post in site.posts %}
+        <!-- {% unless forloop.first == true %}<hr>{% endunless %} -->
         <hr>
         <div>
             <a href="" class="font-weight-bold">
@@ -103,8 +126,8 @@ carousel-items:
 
 <div class="row align-items-center d-flex justify-content-center">
     <div class="col-12">
-        <hr class="w-100">
-        <h2>2019 Symposium Sponsors</h2>
+        <hr class="w-100 mb-5">
+        <h2 class="font-weight-bold">2019 Symposium Sponsors</h2>
         <hr>
     </div>
     {% for item in site.data.sponsors-2019.sponsors %}
