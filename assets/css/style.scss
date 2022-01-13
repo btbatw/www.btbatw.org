@@ -63,6 +63,11 @@ hr.short {
     height: 200px;
 }
 
+.bg-img-placeholder-contain {
+    @extend .bg-img-placeholder;
+    background-size: contain; 
+}
+
 .blog-post-single {
 
     // columns: 20rem;
