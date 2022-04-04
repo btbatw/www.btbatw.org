@@ -18,10 +18,10 @@ title: Symposium
 </div>
 
 <hr class="mt-5 mb-4" />
-## 2021 Virtual Symposium
+## 2022 Symposium
 
 <div class="row">
-    {% assign years = "2021" | split: ',' %}
+    {% assign years = "2022" | split: ',' %}
     {% for year in years %}
     <a class="col-4 col-md-3 col-lg-2" href="{{ year | prepend: '/' | absolute_url }}">
         {% capture new_var %}{{ year }}.jpg{% endcapture %}
@@ -35,7 +35,7 @@ title: Symposium
 ## Past Symposia
 
 <div class="row">
-    {% assign years = "2020,2019,2018,2017,2016,2015,2014,2013" | split: ',' %}
+    {% assign years = "2021,2020,2019,2018,2017,2016,2015,2014,2013" | split: ',' %}
     {% for year in years %}
     <a class="col-4 col-md-3 col-lg-2" href="{{ year | prepend: '/' | absolute_url }}">
         {% capture new_var %}{{ year }}.jpg{% endcapture %}
