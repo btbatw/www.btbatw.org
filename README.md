@@ -77,6 +77,9 @@ The site will be served at `http://127.0.0.1:4000/`
 ## Add static symposium site as git submodule
 
 ```bash
-# branchname - git url - destination local directory
+# git submodule add -b [branchname] [git url] [destination local directory]
 git submodule add -b website https://github.com/btbatw/symposium-2022.git ./2022/
+
+# for local repo freshedly cloned and has submodule
+git submodule update --init 
 ```
