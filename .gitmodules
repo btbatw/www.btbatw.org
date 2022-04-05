@@ -33,3 +33,7 @@
 	url = https://github.com/btbatw/symposium-2018.git
 	branch = website
 
+[submodule "2022"]
+	path = 2022
+	url = https://github.com/btbatw/symposium-2022.git
+	branch = gh-pages
