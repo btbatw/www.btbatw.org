@@ -83,3 +83,14 @@ git submodule add -b website https://github.com/btbatw/symposium-2022.git ./2022
 # for local repo freshedly cloned and has submodule
 git submodule update --init 
 ```
+
+## Download and archive previous symposium wordpress site
+
+ref - https://www.stevenmaude.co.uk/posts/archiving-a-wordpress-site-with-wget-and-hosting-for-free
+
+```bash
+wget \
+  --recursive --no-clobber --page-requisites --html-extension \
+  --convert-links --restrict-file-names=windows \
+  --domains btbatw.org --no-parent btbatw.org/2014/
+```
