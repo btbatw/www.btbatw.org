@@ -37,7 +37,3 @@
 	path = 2022
 	url = https://github.com/btbatw/symposium-2022.git
 	branch = gh-pages
-[submodule "2023"]
-	path = 2023
-	url = https://github.com/btbatw/symposium-2023.git
-	branch = gh-pages
