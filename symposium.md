@@ -21,7 +21,7 @@ title: Symposium
 ## 2023 Symposium
 
 <div class="row">
-    {% assign years = "2022" | split: ',' %}
+    {% assign years = "2023" | split: ',' %}
     {% for year in years %}
     <a class="col-4 col-md-3 col-lg-2" href="{{ year | prepend: '/' | absolute_url }}">
         {% capture new_var %}{{ year }}.jpg{% endcapture %}
