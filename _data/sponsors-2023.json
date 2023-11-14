@@ -1,0 +1,106 @@
+{
+    "sponsors": [
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "NSTC_logo.png",
+            "link": "https://www.nstc.gov.tw"
+        },
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "teco.png",
+            "link": "https://www.roc-taiwan.org/usbos_en/"
+        },
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "teco_S_and_T_logo.png",
+            "link": "https://www.nstc.gov.tw/boston/en/"
+        },
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "Ministry_of_Education.png",
+            "link": "https://english.moe.gov.tw/"
+        },
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "OCAC.png",
+            "link": "https://www.ocac.gov.tw/OCAC/SubSites/Home.aspx?site=7a4eb84a-7632-4679-ac66-35970250e9c9"
+        },
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "ihisto.png",
+            "link": "https://www.ihisto.io/"
+        },
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "biolegend.png",
+            "link": "https://www.biolegend.com"
+        },
+        {
+            "level": "string",
+            "name": "Wegreened",
+            "logoUrl": "North America Immigration Law Group.png",
+            "link": "https://www.wegreened.com/"
+        },
+        {
+            "level": "string",
+            "name": "Green Maple Law Group",
+            "logoUrl": "Green_Maple.png",
+            "link": "https://www.greenmaplelaw.com/"
+        },
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "vizuro.png",
+            "link": "https://www.vizuro.com/"
+        },
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "BTCC.png",
+            "link": "https://www.facebook.com/bostonbtcc"
+        },
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "dcb.png",
+            "link": "https://www.dcb.org.tw/pages/1?locale=en"
+        },
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "MJNE.png",
+            "link": "http://www.mj-ne.org/"
+        },
+        {
+            "level": "string",
+            "name": "Immunwork, Inc.",
+            "logoUrl": "Immunwork.png",
+            "link": "https://www.immunwork.com/index.php?lang=en"
+        },
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "PharmaEssentia.png",
+            "link": "https://us.pharmaessentia.com/"
+        },
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "YBBiotech.png",
+            "link": "https://si.secda.info/yb/"
+        },
+        {
+            "level": "string",
+            "name": "string",
+            "logoUrl": "taihoya_logo.png",
+            "link": "https://taihoya.com/en"
+        }
+    ]
+}

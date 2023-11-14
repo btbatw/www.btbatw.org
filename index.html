@@ -124,17 +124,19 @@ carousel-items:
     </div>
 </div>
 
-<div class="row align-items-center d-flex justify-content-center">
+<div class="row">
     <div class="col-12">
         <hr class="w-100 mb-5">
-        <h2 class="font-weight-bold">2022 Symposium Sponsors</h2>
+        <h2 class="font-weight-bold">2023 Symposium Sponsors</h2>
         <hr>
     </div>
-    {% for item in site.data.sponsors-2022.sponsors %}
-    <a class="col-4 col-md-3" href="{{ item.link }}" target="_blank">
-        <img src="assets/img/sponsors/{{ item.logoUrl }}" alt="{{ item.link }}">
-    </a>
-    {% endfor %}
+    <div class="row align-items-center d-flex justify-content-center bg-white rounded m-3">
+        {% for item in site.data.sponsors-2023.sponsors %}
+        <a class="col-4 col-md-3" href="{{ item.link }}" target="_blank">
+            <img src="assets/img/sponsors/{{ item.logoUrl }}" alt="{{ item.link }}">
+        </a>
+        {% endfor %}
+    </div>
 </div>
 <!--div class="row align-items-center m-5">
     <div class="col-md-4 p-5 text-center">
