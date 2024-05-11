@@ -78,7 +78,7 @@ The site will be served at `http://127.0.0.1:4000/`
 
 ```bash
 # git submodule add -b [branchname] [git url] [destination local directory]
-git submodule add -b gh-pages https://github.com/btbatw/symposium-2023.git ./2023/
+git submodule add -b gh-pages https://github.com/btbatw/symposium-2024.git ./2024/
 
 # for local repo freshedly cloned and has submodule
 git submodule update --init 
