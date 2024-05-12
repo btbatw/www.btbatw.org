@@ -3,7 +3,7 @@ layout: blog-post
 serie: 商業與策略
 categories: [blog]
 title: 藥廠投資組合管理 羅盈智醫師（Dr. Ying-Chih (Paul) Lo) 訪談摘要
-author: 劉駿, 林書宏
+author: 劉駿, 林書弘
 tags: ['Business Strategy']
 excerpt: '在現今的生技產業中，投資組合管理與數據分析技術的重要性日益增加。尤其在藥物開發這一高風險領域，有效的策略和先進的技術可以顯著提升研發的成功率及市場競爭力。透過近期與羅盈智醫師（Paul）的對話，我們得以深入了解這些策略如何在實際應用中發揮作用。
 Paul目前在美國波士頓的 Novartis 藥廠擔任 Portfolio Data Science 部門的副總監，同時也是波士頓台灣醫師協會的會長。他的職業生涯跨越了醫療、人工智慧和商業策略，這使他對於藥廠如何進行投資組合管理有著獨到的見解。'
