@@ -13,7 +13,7 @@ Paul目前在美國波士頓的 Novartis 藥廠擔任 Portfolio Data Science 部
 
 # 藥廠投資組合管理
 ## ft. 羅盈智醫師 Dr. Ying-Chih (Paul) Lo
-<iframe src="https://open.spotify.com/embed/episode/1hk704vrewXUBDWV3bGqsz?utm_source=generator" width="55%" height="250" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/1hk704vrewXUBDWV3bGqsz?utm_source=generator" width="55%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 
