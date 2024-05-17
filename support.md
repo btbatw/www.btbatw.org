@@ -29,11 +29,7 @@ For the past 10 years, BTBA has successfully created a thriving community that a
 - Effective. Your monetary donation to the BTBA helps provide quality contents for our annual symposia, seminars, workshops, and social events.
 
 <div class="text-center">
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="NAALX4S6AYYMW">
-        <input type="submit" class="btn btn-primary" value="Donate via PayPal">
-    </form>
+    <a href="https://www.paypal.com/donate/?hosted_button_id=NKS42BBRSCD5W" class="btn btn-primary">Donate via PayPal</a>
 </div>
 
 <hr class="mt-5 mb-4" />
@@ -41,7 +37,7 @@ For the past 10 years, BTBA has successfully created a thriving community that a
 ## Ways to give
 
 **Individual Giving**
-- Donate online [via PayPal](https://www.paypal.com/donate?token=VC_Z3BOn7svMsTLGsh1gkanwnRkUgb2LVl-I1E6KZ7ayWpYjG182PHiRuMOUA1ONyZfDAt7mEwuOsBF1)
+- Donate online [via PayPal](https://www.paypal.com/donate/?hosted_button_id=NKS42BBRSCD5W)
 - Donate by check or wire transfer (please contact btba@btbatw.org for more information)
 - Via wire transfer (please contact btba@btbatw.org for more information)
 
