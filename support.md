@@ -11,7 +11,7 @@ title: Support
         <hr>
         <!-- <img src="{{ "/assets/img/btba_logo.png" | absolute_url }}" alt="BTBA logo" class="float-left p-4" width="150"> -->
         <p class="">
-            BTBA is a registered non-profit charitable organization that has been operating on limited funds. We are extremely grateful to our symposium speakers and volunteers that make every annual symposium happen. In addition, the success of our symposium largely depends on the continuous support from our sponsors. 
+            BTBA is a registered non-profit charitable organization that has been operating on limited funds. We are extremely grateful to our symposium speakers and volunteers that make every annual symposium happen. In addition, the success of our symposium largely depends on the continuous support from our sponsors.
         </p>
     </div>
 </div>
@@ -41,10 +41,10 @@ For the past 10 years, BTBA has successfully created a thriving community that a
 - Donate by check or wire transfer (please contact btba@btbatw.org for more information)
 - Via wire transfer (please contact btba@btbatw.org for more information)
 
-**Sponsorship Program in BTBA 2022 Annual Symposium**
+**Sponsorship Program in BTBA 2024 Annual Symposium**
 - BTBA Annual Symposium is an incredible opportunity for corporates to market their brands, reach and recruit talents, and increase their visibility and public reputation.
 - Please find more details in our Sponsorship Pamphlet or contact us (btba@btbatw.org) for more information.
-- Our sponsorship tiers and benefits can be found on the [latest Symposium website](https://www.btbatw.org/2022/#sponsor)
+- Our sponsorship tiers and benefits can be found on the [latest Symposium website](https://www.btbatw.org/2024/#sponsor)
 
 **Corporate Giving**
 - Corporate matching (please contact btba@btbatw.org for more information)
