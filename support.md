@@ -11,7 +11,7 @@ title: Support
         <hr>
         <!-- <img src="{{ "/assets/img/btba_logo.png" | absolute_url }}" alt="BTBA logo" class="float-left p-4" width="150"> -->
         <p class="">
-            BTBA is a registered non-profit charitable organization that has been operating on limited funds. We are extremely grateful to our symposium speakers and volunteers that make every annual symposium happen. In addition, the success of our symposium largely depends on the continuous support from our sponsors.
+            BTBA is a registered non-profit 501(c)(3) organization that has been operating on limited funds. We are extremely grateful to our symposium speakers and volunteers that make every annual symposium happen. In addition, the success of our symposium largely depends on the continuous support from our sponsors.
         </p>
     </div>
 </div>
@@ -20,7 +20,7 @@ title: Support
 
 ## Support BTBA
 
-For the past 10 years, BTBA has successfully created a thriving community that attracts hundreds of talents in the biology-related or health-related fields to learn and grow together. Your donation and support will help us host annual symposia, seminars, workshops, and social events to enhance scientific collaborations, to foster career development, and to encourage in-depth communication and connection.
+For the past 10 years, BTBA has successfully built a thriving community that attracts hundreds of talented individuals in the biology and health-related fields, allowing them to learn and grow together. Your donation and support will help us host annual symposia, seminars, workshops, and social events that foster scientific collaboration, support career development, and encourage meaningful communication and connection.
 
 **Your donation is**
 
@@ -37,6 +37,7 @@ For the past 10 years, BTBA has successfully created a thriving community that a
 ## Ways to give
 
 **Individual Giving**
+- Donate online via Zelle (preferred if domestic): btbaboa@gmail.com
 - Donate online [via PayPal](https://www.paypal.com/donate/?hosted_button_id=NKS42BBRSCD5W)
 - Donate by check or wire transfer (please contact btba@btbatw.org for more information)
 - Via wire transfer (please contact btba@btbatw.org for more information)
@@ -48,9 +49,6 @@ For the past 10 years, BTBA has successfully created a thriving community that a
 
 **Corporate Giving**
 - Corporate matching (please contact btba@btbatw.org for more information)
-
-**Amazon Smile**
-- When you select BTBA as your preferred charity on smile.amazon.com or activate AmazonSmile in the Amazon Shopping app for iOS or Android phone, AmazonSmile donates 0.5% of the purchase price of eligible purchases to us.
 
 **Other ways you can help**
 - Share BTBA on social media
