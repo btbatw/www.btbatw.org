@@ -16,10 +16,21 @@ title: Links
     </div>
 </div>
 
----
+<hr class="mt-5 mb-4" />
 
 #### [TTBA](https://ttbatw.org) Texas Taiwanese Biotechnology Association (established in 2013)
 #### [SoCal TBA](http://www.socaltbatw.org/) Southern California TBA (established in 2016)
 #### [ETBA](http://www.etba.ch/) Europe Taiwanese Biotechnology Association (established in 2017)
 #### [MTBA](https://www.batba.co/) Midwest Taiwanese Biotechnology Association (established in 2018)
 #### [BATBA](https://www.batba.co/) Bay Area Taiwanese Biotechnology Association (established in 2018)
+#### [JTBA](https://jtbioa.wordpress.com/) Japan Taiwanese Biotechnology Association (established in 2022)
+
+<hr class="mt-5 mb-4" />
+
+## Follow us on
+
+#### [Facebook](https://www.facebook.com/btbatw/) (@btbatw)
+#### Instagram: @btbatw
+#### [LinkedIn](https://www.linkedin.com/company/btbatw/)
+#### [X](https://x.com/Boston_TBA) (@Boston_TBA)
+#### [YouTube](https://www.youtube.com/channel/UCzBOnK6sgNXc5M6vYdX8dng)
