@@ -1,0 +1,43 @@
+﻿Name in Chinese,Name in English,email,phone number,affiliation,job title,Position title on the website,LinkedIn,Headshot Name
+趙敏妤,Min Yu (Muriel) Chao,mujou90@gmail.com,682-259-5106,Mu Chao Studio,Founder,Art & Design,https://www.linkedin.com/in/mu-chao-7b65a81b3/,
+林琪蓁,Chi-Chen Lin,ti2426@gmail.com,617-417-5038,SiPhox Health,Photonics Engineer,Art & Design,https://www.linkedin.com/in/chi-chen-lin/,Lin_Chi-Chen.jpg
+錢正芬,Cheng-Fen (Abbie) Chien,chien.chen@northeastern.edu / chienchien.neu@gmail.com,781-918-9690 ,Northeastern University,Master student,"Art & Design, LEAP",www.linkedin.com/in/abbie-chengfen-chien,
+張瑄玶,Hsuan Ping (Ping) Chang,b98409032@gmail.com,716-578-6899,AstraZeneca,Senior Scientist,Career and Industry,https://www.linkedin.com/in/hsuan-ping-chang?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app,Hsuan Ping Chang.png
+郭俊廷,Chun-Tien (Jimmy) Kuo,jimmycolor.kuo@gmail.com,614-329-0759,Regeneron Pharmaceuticals,Sr Scientist,Career and Industry,https://www.linkedin.com/in/chuntien-jimmy-kuo/,Jimmy Kuo.jpeg
+潘禹辰,Janet Pan,yypan23@gmail.com,984-377-1115,SOPHiA GENETICS,Bioinformatician,Career and Industry,https://www.linkedin.com/in/yu-chen-pan/,
+盧怡蓁,Jennifer Lu,yjenlu@gmail.com,7654263635,Vertex Pharmaceuticals ,Principal Scientist ,Career and Industry,https://www.linkedin.com/in/jennifer-lu-142465a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app,
+吳淑瑋,Shu-Wei Wu,wendy0205w@gmail.com,617-543-6598,Sanofi,Scientist,Career and industry ,https://www.linkedin.com/in/shu-wei-wu-570a98120,shu-wei_wu.jpg
+羅維中,Wei-Chung (Jimmy) Luo,jimmywcl7916@gmail.com,860-992-9932,Moderna,Scientist,Co-chair,https://www.linkedin.com/in/jimmy-luo,Jimmy Luo_headshot.jpg
+胡金儒,Chin-Ju (Ginnie) Hu,ginniehu@g.harvard.edu,707-727-5736,Harvard University,PhD Candidate,Co-chair,https://www.linkedin.com/in/chin-ju-ginnie-hu/,Ginnie Hu.jpg
+蘇彥竹,Yan-Jhu Su,yanjhu.su1991@gmail.com,786-837-1874,University of Massachusetts,PhD Candidate,Culture and Engagement Team,https://www.linkedin.com/in/yan-jhu-su-a76168151/,Yan-Jhu_Su.jpg
+楊志祥,Chih-Hsiang Yang,leslieyang1129@gmail.com,616-649-8643,UMass Chan Medical School,,Culture and Engagement Team,https://www.linkedin.com/in/leslie-chih-hsiang-yang-8176a79a/,Chih-Hsiang_Yang.jpg
+李浩槿,Hao-Chin Li,cclleo18@gmail.com,305-206-3108,,,Culture and Engagement Team,www.linkedin.com/in/hao-chin-li
+鄺晏婷,Yenting Kuang,kytyk0408@gmail.com,617-935-7269,,,Culture and Engagement Team,https://www.linkedin.com/in/yentingkuang 
+黃嚴樞,Yan-Shu Huang,yanshu.huang.84@gmail.com,765-701-7985,Takeda,Digital Scientist,IT,https://www.linkedin.com/in/yan-shu-huang/,Yan-Shu Huang.jpg
+黃楷智,Kai-Chih Huang,Yellowtomo@gmail.com,764-430-6263,Pfizer,Sr computational biologist ,IT,https://www.linkedin.com/in/kai-chih-huang?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app,kai-chih-huang.jpg
+謝宗霖,Tsung-Lin Hsieh,bryanhsieh.tw@gmail.com,412-628-4211,Bristol Myers Squibb,Scientist,IT,https://www.linkedin.com/in/tlhsieh/,Tsung-Lin Hsieh.jpg
+黃如君,Ju-Chun (Ivy) Huang,juchun.jh@gmail.com,412-983-5459,Amgen,Data Scientist,IT,https://www.linkedin.com/in/ju-chun-huang
+王祺嫻,Chi-Hsien Wang,vian456852@gmail.com,530-965-7254,MIT,Postdoc,LEAP,https://www.linkedin.com/in/chi-hsien-wang?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app,Chi-Hsien Wang.jpg
+李意涵,Yi-Han (Eva) Lee,evayh39@gmail.com,508-667-5407,UMass Chan Medical School,Ph.D. student,LEAP,http://linkedin.com/in/yi-han-lee-18a449114,Yi-Han Lee.jpg
+孫瑞卡,Erica Sun,sunx0766@gmail.com,415-745-5800,Merck,Product Analyst,LEAP,https://www.linkedin.com/in/erica-y-sun/,Erica Sun.jpg
+沈彥甫,Maurice Shen,mauriceyfshen@gmail.com,416-317-5798,Schrödinger,Senior Account Manager,LEAP,https://www.linkedin.com/in/maurice-shen-ph-d-40a86121/
+薛翔尹,Hsiang-Yin Hsueh,hsiangyin0214@gmail.com,614-601-8334,Boston University,Postdoc Associate,LEAP,https://www.linkedin.com/in/hyhsueh/
+廖怡恩,Yi-En Liao,mandy40433@gmail.com,9096875534,Novartis,Fellow ,LEAP,https://www.linkedin.com/in/yien-liao/
+張皓程,Hao-Cheng (Paul) Chang,qpp222208@gmail.com / hao.chang@mail.mcgill.ca,438-680-3369,McGill,PhD Candidate,Promotion,www.linkedin.com/in/haocheng-paul-chang-73702a250,Hao-Cheng Chang.jpg
+周佳昀,Chia Yun (Ariel) Chou,arielchou0126@gmail.com,8589146745,Amgen,Associate,Promotion,www.linkedin.com/in/chia-yun-chou
+蔡景全,Ching-Chuan Tsai,jayray0511@gmail.com,857-390-4927,MCPHS University ,PharmD Student ,Promotion ,https://www.linkedin.com/in/ching-chuan-tsai-4a8886199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app,Ching-Chaun Tsai.jpg
+蔡宜倫,Olivia Tsai,yltsai0604@gmail.com,617-2568721,Vizuro,AI solution engineer ,science and technology ,https://www.linkedin.com/in/yi-lun-tsai-653320298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+楊珺婷,Chun-Ting Yang,chuntingyang827@gmail.com,617-899-7923,BWH,Postdoc,募款,https://www.linkedin.com/in/chun-ting-yang-07b73a1a5/
+李俊毅,Chun-Yi (James) Lee,james820102@gmail.com,617-238-4666,Brandeis University,Visiting scholar,募款,https://www.linkedin.com/in/chun-yi-lee-1778ab1a1/,Chun-Yi Lee.jpg
+黃奕傑,Yi-Chieh (Jay) Huang,a830918s@gmail.com,832-379-9811,Harvard University,Postdoc,募款,www.linkedin.com/in/yichieh-jay-huang
+陳碩文,Shuoh-Wen (Tommy) Chen,tommy1122289@gmail.com,857-343-7526,Harvard Medical School,Visiting scholar,募款,https://www.linkedin.com/in/tommyshuohwenchen
+陳筠媞,Yun-Ti (Latika) Chen,powerti8188@gmail.com,617-386-0168,Ragon Institute,Postdoc,募款,https://www.linkedin.com/in/yun-ti-chen-704189107/
+李佳蓉,Chia-Jung Li,caroline.chiajung.li@gmail.com,857-423-0626,Ragon Institute,Postdoc,學術,https://www.linkedin.com/in/chia-jung-li-a453a11a1/,Chia-Jung Li.heic
+廖庭尉,Ting-Wei Liao,tinweu@gmail.com,443-500-7092,Harvard University,PhD Candidate,學術,linkedin.com/in/ting-wei-liao-b20832106,Ting-Wei_Liao.jpg
+梁馨文, Hsin-Wen (Cindy),cindy21045@gmail.com,219-670-3087,Northeastern University,Ph.D. student,學術,www.linkedin.com/in/hsin-wen-liang,Hsin-Wen (Cindy) Liang.jpg
+孫杰,Michael Sun,heymichael914@gmail.com,919-777-8325,,,學術,https://www.linkedin.com/in/michael-a-sun
+吳婷婷,Ting Ting (Kate) Wu,katewu.com@gmail.com,617-283-3399,Harvard Pilgraim Health Care Institute ,Postdoc,學術,https://www.linkedin.com/in/wutpharmd/
+沈宜蓉,Yi-Jung Shen,yijungshen@gmail.com,530-953-1138,Boston University,PhD Candidate,秘書,https://www.linkedin.com/in/yi-jung-shen-73a381135/,Yi-Jung Shen.jpg
+蔡函庭,Phoebe Tsai,phoebe930420@gmail.com,224-241-5849,Vertex Pharmaceuticals,Principal Research Associate,秘書,https://www.linkedin.com/in/hanting-phoebe-tsai-298a443b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app,phoebe-tsai.jpg
+林其諭,Chi Yu (Claire) Lin,fu6fu610@gmail.com,3392315527,Northeastern University,Master student,秘書,Linkedin.com/in/claire-lin-084133173/
+卓星怡,Hsing-Yi Cho,lilicocomamamia@gmail.com,617-283-7069,MGH,Postdoc,財務,https://www.linkedin.com/in/hsing-yi-cho-a49005224/,Hsing-Yi_Cho.jpg
