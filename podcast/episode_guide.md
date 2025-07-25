@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 節目地圖
+title: Podcast Episode Guide
 ---
 
 **生醫求職攻略 & 業界rising star悄悄話**

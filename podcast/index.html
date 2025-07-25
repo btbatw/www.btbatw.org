@@ -68,7 +68,10 @@ summary: The main goal of Moments in Biotech series is to introduce Taiwanese-Am
     </div>
     <div class="col-md-8 order-1 order-md-2">
         <hr class="mt-5 mb-4" />
-        <a href="{{ '/show_list.html' | relative_url }}">節目地圖 (依節目主題分類清單)</a>
+        <h2>
+            <a href="{{ 'podcast/episode_guide.md' | absolute_url }}">Explore Episodes by Topic</a>
+        </h2>
+
         <h2>Most Recent Episodes</h2>
         {% for episode in site.podcast reversed %}
         <div>
