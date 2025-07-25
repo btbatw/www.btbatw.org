@@ -1,0 +1,144 @@
+---
+layout: default
+title: 節目地圖
+---
+
+**生醫求職攻略 & 業界rising star悄悄話**
+
+* [首份生技業界工作求職 ft. Meredith (主持: 範恩)](https://tmrbiotechmoments.podbean.com/e/covid%E6%9C%9F%E9%96%93%E7%94%9F%E6%8A%80%E6%A5%AD%E6%96%B0%E4%BA%BA%E6%B1%82%E8%81%B7%E5%85%A8%E6%94%BB%E7%95%A5-ft-meredith/) \[7\]  
+* [生技新鮮人求職修煉手冊上卷 ft. Margaret, Yvonne, Phoebe (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/%E7%94%9F%E6%8A%80%E6%96%B0%E9%AE%AE%E4%BA%BA%E6%B1%82%E8%81%B7%E4%BF%AE%E7%85%89%E6%89%8B%E5%86%8A%E2%80%94%E4%B8%8A%E5%8D%B7ft-margaret-wey-yvonne/) \[44,45\]  
+* [初入業界的職涯選擇 2/2 ft. Erin 蕭孟烜 (主持: 乃群 & 郁茹)](https://tmrbiotechmoments.podbean.com/e/erin_hsiao_2/) \[66,67\]  
+* [半路轉行資料科學家 ft. Mike 施建誠 (主持: 範恩)](https://tmrbiotechmoments.podbean.com/e/%E5%8D%8A%E8%B7%AF%E8%BD%89%E8%A1%8C%EF%BC%8C%E5%BD%8E%E9%81%93%E8%B6%85%E8%BB%8A%EF%BC%9A%E8%97%A5%E7%89%A9%E7%A0%94%E7%99%BC%E4%B8%AD/) \[4\]  
+* [新創公司大冒險 ft. 姚若晴 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/juo_chin_yao/) \[79\]  
+* [電機人的基因體學之旅 ft. 陳乃群 (主持: Erin)](https://tmrbiotechmoments.podbean.com/e/nae_chyun_chen/) \[90\]  
+* [科技領域的神經科學家 ft. 張嘉容 (主持: 逸雲)](https://tmrbiotechmoments.podbean.com/e/chia_jung_chang/) \[87\]  
+* [新任會長專訪 (生物資訊/醫師轉公共衛生) ft. 周致宏 & 許祐湉 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/season-2-%E6%88%91%E5%80%91%E5%9B%9E%E4%BE%86%E5%95%A6-%E6%96%B0%E4%BB%BB%E6%9C%83%E9%95%B7%E5%B0%88%E8%A8%AA/) \[24\]  
+* [搶先認識新任共會長 (神經科學/結構生物學) ft. 何逸雲 & 邱亮源 (主持: 祐湉)](https://tmrbiotechmoments.podbean.com/e/%e7%ac%ac%e4%b8%89%e5%ad%a3%e7%b2%89%e5%a2%a8%e7%99%bb%e5%a0%b4%ef%bc%81-%e6%90%b6%e5%85%88%e8%aa%8d%e8%ad%98%e6%96%b0%e4%bb%bb/) \[43\]   
+* [新任會長的生技職涯大冒險 (生物資訊/Analytical Development，台灣博士美國就業/裁員求職之路) ft. 蔡明儒 & 吳佩容 (主持: 逸雲)](https://tmrbiotechmoments.podbean.com/e/%E7%AC%AC%E5%9B%9B%E5%AD%A3%E9%96%83%E4%BA%AE%E5%9B%9E%E6%AD%B8%EF%BC%8C%E4%B8%80%E7%AA%BAbtba%E6%96%B0%E4%BB%BB%E6%9C%83%E9%95%B7/) \[60\]
+
+**生醫前輩職涯旅程與心裡話**
+
+* [不一樣的路 ft. Judy 周慧泉 (主持: Yvonne)](https://tmrbiotechmoments.podbean.com/e/judy-chou/) \[15\]  
+* [藥物製程領袖的生技旅程 ft. 葉秉陽 (主持: Yvonne)](https://tmrbiotechmoments.podbean.com/e/ping-yang-yeh/) \[54\]  
+* [多元職涯探索](https://tmrbiotechmoments.podbean.com/e/chin_wen_chang/)[－](https://tmrbiotechmoments.podbean.com/e/ft-gugu/)[傾聽內心的鼓聲 ft. 張瀞文 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/chin_wen_chang/) \[86\]  
+* [自己就是自己的職涯掌舵手 ft. 楊秉修 (主持: Phoebe)](https://tmrbiotechmoments.podbean.com/e/bing_shiou_yang/) \[72\]  
+* [全球公衛及疫苗生技策略佈局 ft. 連加恩 (主持: Yvonne)](https://tmrbiotechmoments.podbean.com/e/%E8%AE%93%E6%88%91%E5%80%91%E4%BE%86%E8%AB%87%E8%AB%87%E7%96%AB%E8%8B%97-ft-%E9%80%A3%E5%8A%A0%E6%81%A9%E9%86%AB%E5%B8%AB/) \[13\]
+
+**職場進階 \- 我們一起升級**
+
+* [It’s the climb: Ascending biotech’s career ladder ft. Jo Viney (主持: Yvonne & Phoebe)](https://tmrbiotechmoments.podbean.com/e/it-s-the-climb-ascending-biotech-s-career-ladder-without-losing-balance-ft-dr-jo-viney/) \[42\]  
+* [職場升級指南](https://tmrbiotechmoments.podbean.com/e/yvonne_meng_margaret_wei/)[－](https://tmrbiotechmoments.podbean.com/e/ft-gugu/)[領導力降維解析 ft. Yvonne & Margaret (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/yvonne_meng_margaret_wei/) \[97\]  
+* [Networking](https://tmrbiotechmoments.podbean.com/e/phoebe_tsai_ginnie_hu/)[－](https://tmrbiotechmoments.podbean.com/e/ft-gugu/)[職場必備軟實力 ft. Phoebe & Ginnie (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/phoebe_tsai_ginnie_hu/) \[75\]
+
+**藥物開發流程**
+
+* **研發 (Research) 及各式藥物療法**  
+  * [新藥研發的第一步](https://tmrbiotechmoments.podbean.com/e/shian-huey-chiang/)[－](https://tmrbiotechmoments.podbean.com/e/ft-gugu/)[標的確認 ft. Shian-Huey Chiang (主持：Yvonne)](https://tmrbiotechmoments.podbean.com/e/shian-huey-chiang/) \[3\]  
+  * [新藥開發的掌舵手：醫療研發專科－發炎與免疫學部門 ft. Lih-Ling Lin (主持: Yvonne)](https://tmrbiotechmoments.podbean.com/e/%E6%96%B0%E8%97%A5%E9%96%8B%E7%99%BC%E7%9A%84%E6%8E%8C%E8%88%B5%E6%89%8B%EF%BC%9A%E9%86%AB%E7%99%82%E7%A0%94%E7%99%BC%E5%B0%88%E7%A7%91/) \[10\]  
+  * [基因編輯療法 ft. 閔譯立 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/yi-li-min/) \[40\]  
+  * [RNA 干擾療法 ft. 杜荷洲 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/ho-chou-tu/) \[52\]  
+  * [免疫細胞療法 ft. 張德寬 (主持: Margaret)](https://tmrbiotechmoments.podbean.com/e/de-kuan-chang/) \[55\]  
+  * [魔術子彈-Antibody Drug Conjugate ft. 張瑄玶 (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/hsuan_ping_chang/) \[78\]  
+  * [罕見疾病的個人化療法  ft. Timothy 游維文 (主持: 志阜 & Selina)](https://tmrbiotechmoments.podbean.com/e/timothyyu/) \[41\]  
+  * [神經藥物的開發前景 ft. 黃正球 (主持: 逸雲)](https://tmrbiotechmoments.podbean.com/e/cheng_chiu_joe_huang/) \[71\]  
+  * [神經膠細胞](https://tmrbiotechmoments.podbean.com/e/hui_hsin_tsai/)[－](https://tmrbiotechmoments.podbean.com/e/ft-gugu/)[從基礎到臨床研究 ft. 蔡蕙歆 (主持: 君瑋 & 逸雲)](https://tmrbiotechmoments.podbean.com/e/hui_hsin_tsai/) \[81\]  
+      
+* **製程 (Development)**  
+  * [新藥開發製造與生產 ft.孫大峻 (主持: Yvonne)](https://tmrbiotechmoments.podbean.com/e/dajun-sun/) \[17\]  
+  * [小分子藥物製程 ft. 謝効吾 (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/pd-1-hwhsieh/) \[47\]  
+  * [核酸藥物製程 ft. Jimmy 朱治齊 (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/jimmy-chu/) \[51\]  
+  * [蛋白質藥物製程 ft. Yvonne 孟憲薇 (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/protein-yvonne/) \[57\]  
+  * [mRNA-LNP 藥品製程 ft. Jimmy 羅維中 (主持: 郁茹)](https://tmrbiotechmoments.podbean.com/e/jimmy_luo/) \[83\]  
+  * [從候選藥物到上市藥物 ft. 畢家興 & 廖怡恩 (主持: 逸雲)](https://tmrbiotechmoments.podbean.com/e/yi_en_liao_chia_hsing_pi/) \[77\]（製程＋臨床試驗）
+
+
+* **臨床前 (Pre-Clinical) & 臨床試驗 (Clinical Study)**  
+  * [藥物代謝動力學 ft. Frank 李文機 (主持: Yvonne)](https://tmrbiotechmoments.podbean.com/e/%E5%95%9F%E7%A8%8B%E6%B0%B8%E9%81%A0%E4%B8%8D%E6%99%9A%EF%BC%8C%E5%A0%85%E5%AE%9A%E5%A4%A2%E6%83%B3%E5%AF%A6%E7%8F%BE%E2%80%94%E6%96%B0/) \[6\]  
+  * [藥物脫靶試驗 ft. 李君曜 (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/chun_yao_lee/) \[94\]  
+  * [新藥開發的臨床試驗 ft. Margaret 魏嘉英 (主持：範恩)](https://tmrbiotechmoments.podbean.com/e/margaret-wey/) \[2\]  
+  * [生物統計](https://tmrbiotechmoments.podbean.com/e/%E7%94%9F%E7%89%A9%E7%B5%B1%E8%A8%88%EF%BC%9A%E5%AF%A6%E9%A9%97%E6%95%B8%E6%93%9A%E7%9A%84%E5%BB%BA%E7%AF%89%E5%B8%AB-ft-joannelin-%E6%9E%97/)[－](https://tmrbiotechmoments.podbean.com/e/ft-gugu/)[實驗數據建築師 ft. Joanne 林玨安 (主持: Margaret)](https://tmrbiotechmoments.podbean.com/e/%E7%94%9F%E7%89%A9%E7%B5%B1%E8%A8%88%EF%BC%9A%E5%AF%A6%E9%A9%97%E6%95%B8%E6%93%9A%E7%9A%84%E5%BB%BA%E7%AF%89%E5%B8%AB-ft-joannelin-%E6%9E%97/) \[31\]  
+  * [生物標記於藥物開發的今生與未來 ft. Ric (主持:範恩)](https://tmrbiotechmoments.podbean.com/e/%E7%94%9F%E7%89%A9%E6%A8%99%E8%A8%98%E6%96%BC%E8%97%A5%E7%89%A9%E9%96%8B%E7%99%BC%E7%9A%84%E4%BB%8A%E7%94%9F%E8%88%87%E6%9C%AA%E4%BE%86-ft-ric/) \[9\]
+
+
+* **法規 (Regulatory)**  
+  * [藥廠法規部門和你想的不一樣 ft. 洪筱玲 (主持: Yvonne)](https://tmrbiotechmoments.podbean.com/e/%E6%B3%95%E8%A6%8F%E9%83%A8%E9%96%80%E8%B7%9F%E4%BD%A0%E6%83%B3%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A8%A3-ft-hsiao-ling-hung-%E6%B4%AA%E7%AD%B1%E7%8E%B2/) \[16\]
+
+
+* **醫學事務 (Medical Affairs) 及市場準入 (Market Access)**  
+  * [醫學事務部門-藥廠活字典 ft. Jessie 張嘉玲 (主持: Margaret)](https://tmrbiotechmoments.podbean.com/e/%E8%97%A5%E5%BB%A0%E4%B8%AD%E7%9A%84%E6%B4%BB%E5%AD%97%E5%85%B8%EF%BC%8D%E9%86%AB%E8%97%A5%E4%BA%8B%E5%8B%99%E9%83%A8%E9%96%80medical-affairs-ftjessie/) \[19\]  
+  * [HEOR 解密 ft. Rosa (主持: Margaret)](https://tmrbiotechmoments.podbean.com/e/real-world-data-ft-rosa/) \[8\]  
+  * [藥品給付及藥價制定 ft. Sharon (主持: Margaret)](https://tmrbiotechmoments.podbean.com/e/market-access-%E8%97%A5%E5%93%81%E7%B5%A6%E4%BB%98-%E8%88%87-%E8%97%A5%E5%83%B9%E5%88%B6%E5%AE%9A-ft-sharon/) \[39\]
+
+
+* **營運 (Operation)**   
+  * [藥廠營運管理 ft. Morris 陳昱名 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/morris_chen/) \[76\]  
+  * [全球製造](https://tmrbiotechmoments.podbean.com/e/tzu_chiang_han/)[－](https://tmrbiotechmoments.podbean.com/e/ft-gugu/)[高品質藥物產出才是王道 ft. 韓子強 (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/tzu_chiang_han/) \[92\]  
+  * [量產新冠快篩 ft. Alex 洪克璿 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/alex_ko-hsuan_hung/) \[61\]  
+  * [從樣本到基因檢測結果—自動化產線的指揮家 ft. 曾威諭 (主持: 範恩)](https://tmrbiotechmoments.podbean.com/e/%e5%be%9e%e6%a8%a3%e6%9c%ac%e5%88%b0%e5%9f%ba%e5%9b%a0%e6%aa%a2%e6%b8%ac%e7%b5%90%e6%9e%9c%e2%80%94%e8%87%aa%e5%8b%95%e5%8c%96%e7%94%a2/) \[32\]
+
+
+* **商業及策略 (Commercial & Strategy)**  
+  * [全球商業部門及產品經理 ft. 黃意茹 (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/yi_ju_huang/) \[62\]  
+  * [商業數據分析 ft. Mango 張文穎 (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/wenying_mango_chang/) \[64\]  
+  * [藥廠中的投資組合管理 ft. Paul 羅盈智 (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/ying_chih_paul_lo/) \[70\]  
+  * [商業開發business development ft. Will 顏伯任 (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/po_jen_will_yen/) \[73\]  
+  * [發掘生技璞玉的冒險王，開創自我價值的投資家 ft. 張劭聿 (主持: Ric)](https://tmrbiotechmoments.podbean.com/e/shaoyuchang/) \[20\]
+
+**藥廠上下游**
+
+* **顧問業**  
+  * [我是你的智囊團－生技顧問業大解密 ft. Gugu (主持: 範恩)](https://tmrbiotechmoments.podbean.com/e/ft-gugu/) \[21\]  
+* **儀器供應商**  
+  * [科學家的科學家 ft. 林昶廷 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/%E7%A7%91%E5%AD%B8%E5%AE%B6%E7%9A%84%E7%A7%91%E5%AD%B8%E5%AE%B6-ft-%E6%9E%97%E6%98%B6%E5%BB%B7/) \[30\]
+
+**生醫創業**
+
+* [電子藥物 ft. 羅怡凱 (主持: 範恩)](https://tmrbiotechmoments.podbean.com/e/%E9%9B%BB%E5%AD%90%E8%97%A5%E7%89%A9%E5%89%B5%E6%A5%AD%E4%B9%8B%E6%97%85-ft-%E7%BE%85%E6%80%A1%E5%87%B1/) \[14\]  
+* [精準醫療 ft. 林清詠 (主持: Richard)](https://tmrbiotechmoments.podbean.com/e/ft-ching-yung-lin/) \[11,12\]  
+* [聰明胰島素 ft. Danny 周宏杰 (主持: Yvonne & Erica)](https://tmrbiotechmoments.podbean.com/e/faculty-asentrepreneursi-%E5%AD%B8%E8%80%85%E5%89%B5%E6%A5%AD%E5%B0%88%E8%A8%AA-ismart-insulin-%E8%81%B0%E6%98%8E%E7%9A%84/) \[28\]  
+* [深度學習在醫學影像的實踐 ft. 呂任棠 (主持: 範恩)](https://tmrbiotechmoments.podbean.com/e/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%96%BC%E9%86%AB%E5%AD%B8%E5%BD%B1%E5%83%8F%E7%9A%84%E5%AF%A6%E8%B8%90-ft%E5%91%82%E4%BB%BB%E6%A3%A0jentanglu/) \[29\]  
+* [分析化學及次世代益生菌 ft. 徐丞志 (主持: Yvonne & Erica)](https://tmrbiotechmoments.podbean.com/e/faculty-asentrepreneursii-%E5%AD%B8%E8%80%85%E5%89%B5%E6%A5%AD%E5%B0%88%E8%A8%AAii-%E2%80%93empoweringclinicaldiagnostics-with-mass-spectrom/) \[33\]  
+* [奈米醫藥](https://tmrbiotechmoments.podbean.com/e/faculty-asentrepreneursiii-part-1%E5%AD%B8%E8%80%85%E5%89%B5%E6%A5%AD%E5%B0%88%E8%A8%AA-iii-%E4%B8%8A%E9%9B%86%E2%80%93empowering-clinicaldiagnosti/)[－](https://tmrbiotechmoments.podbean.com/e/ft-gugu/)[上集 ft. 曾憲榮 (主持: Yvonne & Erica)](https://tmrbiotechmoments.podbean.com/e/faculty-asentrepreneursiii-part-1%E5%AD%B8%E8%80%85%E5%89%B5%E6%A5%AD%E5%B0%88%E8%A8%AA-iii-%E4%B8%8A%E9%9B%86%E2%80%93empowering-clinicaldiagnosti/) \[35,37\]  
+* [智慧細胞學檢測 ft. Samuel 陳聖雄 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/%E6%96%B0%E5%89%B5%E4%B9%8B%E8%B7%AF%E2%94%80%E6%99%BA%E6%85%A7%E7%B4%B0%E8%83%9E%E5%AD%B8%E6%AA%A2%E6%B8%AC-ft%E9%99%B3%E8%81%96%E9%9B%84samuel-chen/) \[59\]  
+* [新型態細胞療法](https://tmrbiotechmoments.podbean.com/e/sonny_hsiao/)[－](https://tmrbiotechmoments.podbean.com/e/ft-gugu/)[ACC ft. Sonny 蕭世嘉 (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/sonny_hsiao/) \[65\]  
+* [智慧膠囊-壓力監測新時代 ft. 廖建宏 (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/chien_hung_liao/) \[88\]  
+* [創新研究商業化](https://tmrbiotechmoments.podbean.com/e/%E5%89%B5%E6%96%B0%E7%A0%94%E7%A9%B6%E5%95%86%E6%A5%AD%E5%8C%96%E4%B9%8B%E8%B7%AF%E7%9A%84%E9%99%AA%E8%B7%91%E5%93%A1/)[－](https://tmrbiotechmoments.podbean.com/e/ft-gugu/)[技術轉移 ft. 陳盈利 (主持: 範恩)](https://tmrbiotechmoments.podbean.com/e/%E5%89%B5%E6%96%B0%E7%A0%94%E7%A9%B6%E5%95%86%E6%A5%AD%E5%8C%96%E4%B9%8B%E8%B7%AF%E7%9A%84%E9%99%AA%E8%B7%91%E5%93%A1/) \[27\]
+
+**人工智慧，數位醫療與生物資訊**
+
+* [AI 藥物開發導論 ft. 陳乃群 & 林書弘 (主持: 威佑)](https://tmrbiotechmoments.podbean.com/e/aidd_intro/) \[85\]  
+* [AI 藥物篩選平台 ft. 林彥竹 (主持: 威佑 ＆ 畇芸)](https://tmrbiotechmoments.podbean.com/e/yen_chu_lin/) \[89\]  
+* [AI 在基因體學的應用 ft. 張碧娟 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E6%96%BC%E5%9F%BA%E5%9B%A0%E9%AB%94%E5%AD%B8%E7%9A%84%E6%87%89%E7%94%A8-ft%E5%BC%B5%E7%A2%A7%E5%A8%9Fdrpi-chuan-c/) \[46\]  
+* [藥廠計算生物 ft. 周文奇 & 林書弘 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/wen_chi_chou_shu_hong_lin/) \[82\]  
+* [醫療大數據分析 ft. Ivy Weng (主持: 祐湉)](https://tmrbiotechmoments.podbean.com/e/ivy-md/) \[58\]  
+* [精準醫療 Precision Medicine ft. 張明奎 (主持: Ric)](https://tmrbiotechmoments.podbean.com/e/%E5%89%B5%E6%96%B0%E7%A0%94%E7%99%BC%E7%84%A1%E5%9C%8B%E7%95%8C%EF%BC%8C%E7%B2%BE%E6%BA%96%E9%86%AB%E7%99%82%E7%84%A1%E6%AD%BB%E8%A7%92/) \[18\]  
+* [台灣智慧醫療 ft. 黃泰一 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/dr-tai-yi-huang/) \[36\]  
+* [真實世界數據](https://tmrbiotechmoments.podbean.com/e/sentinel-darrentoh/)[－](https://tmrbiotechmoments.podbean.com/e/ft-gugu/)[安全性監測 ft. Darren 杜勝偉 (主持: 範恩)](https://tmrbiotechmoments.podbean.com/e/sentinel-darrentoh/) \[34\]  
+* [數位醫療新趨勢 ft. Liz Kwo (主持: 乃群 & 祐湉)](https://tmrbiotechmoments.podbean.com/e/liz_kwo/) \[63\]  
+* [大海撈針](https://tmrbiotechmoments.podbean.com/e/ft-hsin-ta-wu/?fbclid=IwY2xjawLqTWBleHRuA2FlbQIxMABicmlkETFVZktjRmZRVG9hRmZxMzk5AR6KqA8d4N2a92J9We9ALpvTDb2vRizUH6rScnIf3HzN10UBL4uvi5v7jOzT7g_aem_y4DgCol_FhBi5jtk-DcPQA)[－](https://tmrbiotechmoments.podbean.com/e/ft-gugu/)[癌症基因檢測 ft. 吳欣達 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/ft-hsin-ta-wu/?fbclid=IwY2xjawLqTWBleHRuA2FlbQIxMABicmlkETFVZktjRmZRVG9hRmZxMzk5AR6KqA8d4N2a92J9We9ALpvTDb2vRizUH6rScnIf3HzN10UBL4uvi5v7jOzT7g_aem_y4DgCol_FhBi5jtk-DcPQA) \[26\]
+
+**醫療器材**
+
+* [腦機介面的現實與未來](https://tmrbiotechmoments.podbean.com/e/sheng_hsiou_hsu_1/)[－](https://tmrbiotechmoments.podbean.com/e/ft-gugu/)[上集 ft. 徐聖修 (主持: 逸雲)](https://tmrbiotechmoments.podbean.com/e/sheng_hsiou_hsu_1/) \[68,69\]  
+* [腦機介面的領頭羊 ft. 張耀銓 (主持: 逸雲)](https://tmrbiotechmoments.podbean.com/e/yao_chuan_chang_1/) \[95,96\]  
+* [醫療器材與價值醫療  ft. Cindy Tong (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/med-device-vbhc-ft-cindytong/) \[48\]
+
+**醫師在藥廠的旅程**
+
+* [醫師在藥廠的工作選擇 ft. Starr 陳思達 (主持: Margaret)](https://tmrbiotechmoments.podbean.com/e/starrchen/) \[5\]  
+* [醫師到Medical Director的多元道路 ft. 薛涵中 & 吳庭輝 (主持: 祐湉)](https://tmrbiotechmoments.podbean.com/e/emilyandting/) \[49,50\]  
+* [從臨床、國際衛生到Real-World Evidence ft. 楊昆澈 (主持: 祐湉)](https://tmrbiotechmoments.podbean.com/e/rwe-dr-quitin/) \[56\]  
+* [從臨床醫師到藥廠 ft. June 林靜君 (主持: 祐湉 & 逸雲)](https://tmrbiotechmoments.podbean.com/e/june_lin/) \[74\]
+
+**醫療保險系統綜觀**
+
+* [台灣健保價值及生技創新 ft. 張鴻仁 (主持: 範恩 & 乃群)](https://tmrbiotechmoments.podbean.com/e/%E5%8F%B0%E7%81%A3%E5%81%A5%E4%BF%9D%E5%83%B9%E5%80%BC%E4%BB%A5%E5%8F%8A%E7%94%9F%E6%8A%80%E5%89%B5%E6%96%B0%E7%92%B0%E5%A2%83ft-%E5%BC%B5/) \[38\]  
+* [美國藥物保險給付體系 ft. Mike 李和昭 (主持: 劉駿)](https://tmrbiotechmoments.podbean.com/e/mike_lee/) \[80\]
+
+**學界，基礎科學與科普**
+
+* [學界PI迷思大破解 ft. Erica Cai & Monica Wey (主持: 範恩)](https://tmrbiotechmoments.podbean.com/e/%E5%AD%B8%E7%95%8Cpi%E8%BF%B7%E6%80%9D%E5%A4%A7%E7%A0%B4%E8%A7%A3-ft-erica-cai-monica-wey/) \[25\]  
+* [無合成分裂 ft. 陳潔盈 (主持: 威佑)](https://tmrbiotechmoments.podbean.com/e/keat-ying-chan/) \[53\]  
+* [遺傳性聽損的基因編輯治療 ft. Ginnie 胡金儒 (主持: 郁茹)](https://tmrbiotechmoments.podbean.com/e/ginnie_hu_jimmy_luo/) \[84\]  
+* [衰老密碼解鎖 ft. 陳沛均 (主持: Michelle)](https://tmrbiotechmoments.podbean.com/e/jin_chen/) \[91\]  
+* [GLP-1 腸泌素藥物 ft. 黃峻偉 (主持: 乃群)](https://tmrbiotechmoments.podbean.com/e/jin_wei_huang/) \[93\]
