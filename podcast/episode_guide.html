@@ -97,6 +97,7 @@ title: Podcast Episode Guide
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
             border-left: 5px solid #569249;
             scroll-margin-top: var(--header-height);
+            position: relative;
         }
 
         .section h2 {
@@ -217,6 +218,21 @@ title: Podcast Episode Guide
             opacity: 0.9;
         }
 
+
+        /* style the back-to-top link */
+        .back-to-top {
+        position: absolute;
+        right: 20px;
+        bottom: 20px;
+        font-size: 0.9em;
+        text-decoration: none;
+        color: #789fb4;
+        transition: color 0.3s ease;
+        }
+        .back-to-top:hover {
+        color: #3498db;
+        }
+
         @media (max-width: 768px) {
             .podcast_guide_container {
                 margin: 10px;
@@ -254,7 +270,7 @@ title: Podcast Episode Guide
     </style>
 <!-- </head>
 <body> -->
-    <div class="podcast_guide_container">
+    <div id="top" class="podcast_guide_container">
         <div class="podcast_guide_header">
             <h1>生技來一刻 節目地圖</h1>
             <!-- <p>Seasons 1-5 Complete Episode Guide</p> -->
@@ -347,6 +363,7 @@ title: Podcast Episode Guide
                     </a>
                 </li>
             </ul>
+            <a href="#top" class="back-to-top">🔝 Back to top</a>
         </section>
 
         <section id="journey" class="section fade-in">
@@ -378,6 +395,7 @@ title: Podcast Episode Guide
                     </a>
                 </li>
             </ul>
+            <a href="#top" class="back-to-top">🔝 Back to top</a>
         </section>
 
         <section id="advancement" class="section fade-in">
@@ -399,6 +417,7 @@ title: Podcast Episode Guide
                     </a>
                 </li>
             </ul>
+            <a href="#top" class="back-to-top">🔝 Back to top</a>
         </section>
 
         <section id="development" class="section fade-in">
@@ -610,6 +629,7 @@ title: Podcast Episode Guide
                     </li>
                 </ul>
             </div>
+            <a href="#top" class="back-to-top">🔝 Back to top</a>
         </section>
 
         <section id="upstream" class="section fade-in">
@@ -636,6 +656,7 @@ title: Podcast Episode Guide
                     </li>
                 </ul>
             </div>
+            <a href="#top" class="back-to-top">🔝 Back to top</a>
         </section>
 
         <section id="startup" class="section fade-in">
@@ -692,6 +713,7 @@ title: Podcast Episode Guide
                     </a>
                 </li>
             </ul>
+            <a href="#top" class="back-to-top">🔝 Back to top</a>
         </section>
 
         <section id="ai" class="section fade-in">
@@ -748,6 +770,7 @@ title: Podcast Episode Guide
                     </a>
                 </li>
             </ul>
+            <a href="#top" class="back-to-top">🔝 Back to top</a>
         </section>
 
         <section id="devices" class="section fade-in">
@@ -769,6 +792,7 @@ title: Podcast Episode Guide
                     </a>
                 </li>
             </ul>
+            <a href="#top" class="back-to-top">🔝 Back to top</a>
         </section>
 
         <section id="doctors" class="section fade-in">
@@ -795,6 +819,7 @@ title: Podcast Episode Guide
                     </a>
                 </li>
             </ul>
+            <a href="#top" class="back-to-top">🔝 Back to top</a>
         </section>
 
         <section id="insurance" class="section fade-in">
@@ -810,6 +835,7 @@ title: Podcast Episode Guide
                         美國藥物保險給付體系 ft. Mike 李和昭 (主持: 劉駿)
                 </li>
             </ul>
+            <a href="#top" class="back-to-top">🔝 Back to top</a>
         </section>
 
         <section id="academia" class="section fade-in">
@@ -841,5 +867,6 @@ title: Podcast Episode Guide
                     </a>
                 </li>
             </ul>
+            <a href="#top" class="back-to-top">🔝 Back to top</a>
         </section>
 <!-- </body> -->
