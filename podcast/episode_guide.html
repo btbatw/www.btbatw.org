@@ -239,27 +239,27 @@ title: Podcast Episode Guide
       <h1>生技來一刻 節目地圖</h1>
     </div>
 
-    <div class="stats">
-        <div class="stat-card">
-            <div class="stat-number">97</div>
-            <div class="stat-label">總集數</div>
-        </div>
-        <div class="stat-card">
-            <div class="stat-number">13</div>
-            <div class="stat-label">主題分類</div>
-        </div>
-        <div class="stat-card">
-            <div class="stat-number">5</div>
-            <div class="stat-label">季數</div>
-        </div>
-    </div>
-
     {%- comment -%}
     Load both your mappings and your CSV
     sections.yml entries must have: id, title, full_name
     {%- endcomment -%}
     {% assign nav_map  = site.data.podcast.sections %}
     {% assign episodes = site.data.podcast.episode_guide_list %}
+
+    <div class="stats">
+      <div class="stat-card">
+        <div class="stat-number">{{ episodes | size }}</div>
+        <div class="stat-label">總集數</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">{{ nav_map | size }}</div>
+        <div class="stat-label">主題分類</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">5</div>
+        <div class="stat-label">季數</div>
+      </div>
+    </div>
 
     <!-- NAV BAR (short IDs + titles) -->
     <nav class="podcast_guide_nav-menu">
