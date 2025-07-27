@@ -268,7 +268,18 @@ title: Podcast Episode Guide
     </div>
 
     <div class="stats">
-      <!-- … your stat cards … -->
+        <div class="stat-card">
+            <div class="stat-number">97</div>
+            <div class="stat-label">總集數</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">13</div>
+            <div class="stat-label">主題分類</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">5</div>
+            <div class="stat-label">季數</div>
+        </div>
     </div>
 
     {%- comment -%}
@@ -294,7 +305,7 @@ title: Podcast Episode Guide
           <h2>{{ group.first.Section }}</h2>
 
           {%- comment -%}
-          Now group the episodes by Subsection as before
+          Group the episodes by Subsection
           {%- endcomment -%}
           {% assign subs = group | group_by: "Subsection" %}
           {% for sub in subs %}
