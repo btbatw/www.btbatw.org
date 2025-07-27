@@ -292,7 +292,7 @@ title: Podcast Episode Guide
         Build the TOC by Section
         {%- endcomment -%}
         <nav class="podcast_guide_nav-menu">
-            {% assign episodes = site.data.episode_guide_list %}
+            {% assign episodes = site.data.podcast.episode_guide_list %}
             {% assign sections = episodes | group_by: "Section" %}
             {% for section in sections %}
             <a href="#{{ section.name | slugify }}">{{ section.name }}</a>
