@@ -19,6 +19,7 @@ title: About
 
 Each year, we invite prominent figures from academia and the biotech industry to share their achievements and personal stories with us. Our past keynote speakers include 
 
+* 2025: Dr. Michael McKenna (CSO and Co-Founder of Akouos, a subsidiary of Eli Lilly); Dr. Kornelia Polyak (Professor at Dana-Farber Cancer Institute and Harvard Medical School)
 * 2024: Dr. Laura Sepp-Lorenzino (CSO, Intellia Therapeutics) and Dr. Samir Mitragotri (Core Faculty, Wyss Institute/Harvard University)
 * 2023: Dr. George Church (Professor of Genetics, Harvard Medical School) and Dr. Liz Kwo (CMO, Everly Health)
 * 2022: Dr. Robert Langer (David H. Koch Institute Professor, MIT) and Dr. Jo Viney (Founder, President, and CEO of Seismic Therapeutics)
