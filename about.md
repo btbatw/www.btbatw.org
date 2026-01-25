@@ -36,7 +36,7 @@ Each year, we invite prominent figures from academia and the biotech industry to
 In addition to keynote lectures, we host academic and industry panels, career development luncheons, networking sessions, oral and poster presentations by attendees, as well as individual recruitment and interview sessions with academic and industry representatives throughout the symposium day. BTBA also organizes seminars and workshops regularly throughout the year, providing a platform for young scientists to share their research, exchange ideas, explore career opportunities, and polish their soft skills for better career development. We collaborate with local and out-of-state organizations on programs aligned with our mission to strengthen the bioscience communities in Taiwan and the U.S. We welcome you to reach out if you have ideas that could be realized through our platform.
 
 <br>
-<a href="_data/BTBA_Rules_and_Regulations.pdf" download>波士頓台灣人生物科技協會章程</a>
+<a href="{{ '/assets/docs/BTBA_Constitution.pdf' | absolute_url }}">波士頓台灣人生物科技協會章程</a>
 
 
 
